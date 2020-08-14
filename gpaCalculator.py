@@ -8,9 +8,8 @@ gpaNumbers = {'A+':4, 'A':3.7, 'A-':3.3, 'B+':3, 'B':2.7, 'B-':2.3, 'C+':2, 'C':
 
 #main user interaction function
 #function that translates grade to number
-#function that adds credits
+#function that calculates GPA
 
 
-#user passes in user's .txt file
+#user passes in their  .txt file
 #prints the GPA, then the steps if desired
-#git is so awesome ;)
